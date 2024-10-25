@@ -1,0 +1,37 @@
+.inline{
+  display: block;
+  margin: 0 auto;
+  text-align:center;
+}
+
+h1, p{
+  text-align:center;
+  font-weight: bold;
+}
+h1{
+  padding-top:30px;
+}
+header{
+ color:lightgreen;
+
+}
+body{
+  background-image:url("https://images.pexels.com/photos/573130/pexels-photo-573130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+}
+form, label input{
+  text-align: center;
+  color:lightgreen;
+}
+input{
+  padding:5px 50px;
+  margin: 0 auto; 
+}
+.more{
+  padding:25px;
+}
+.submit-button{
+  background-color:grey;
+}
+.submit{
+  padding:10px;
+}
